@@ -1,0 +1,17 @@
+.form-control {
+  border: solid 2px rgb(45, 42, 42);
+  height: 200px;
+}
+
+#row1 {
+  margin-left: auto;
+  margin-right: auto;
+  border: solid whitesmoke;
+  margin-top: 100px;
+  width: 500px;
+  height: 400px;
+}
+
+#col1 {
+  margin-right: 330px;
+}
